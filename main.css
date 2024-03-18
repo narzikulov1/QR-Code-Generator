@@ -67,7 +67,7 @@ body {
 #imgBox img{
     width: 100%;
     padding: 0.5rem;
-
+    cursor: pointer;
 }
 
 #imgBox.show-img{
